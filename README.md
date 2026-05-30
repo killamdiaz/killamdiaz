@@ -12,7 +12,7 @@
 ```
 
 <a href="https://github.com/killamdiaz">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2400&pause=600&color=A78BFA&center=true&vCenter=true&width=720&lines=Spatial-computing+engineer.;VR+%2B+AI+agents%2C+wired+together.;Currently+building+Origin+%26+Chakra." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2400&pause=600&color=A78BFA&center=true&vCenter=true&width=720&lines=Spatial-computing+engineer.;VR+%2B+AI+agents%2C+wired+together.;Currently+building+Origin." alt="Typing SVG" />
 </a>
 
 <br/>
@@ -32,11 +32,6 @@
 │  A persistent VR multiverse for Quest 3. UE 5.7, World Partition,    │
 │  HLOD, PSO precaching, custom loader stack tuned for VR comfort.     │
 │  Cyberpunk + autumn shrine + future worlds in one streamed scene.    │
-└──────────────────────────────────────────────────────────────────────┘
-
-┌─ Chakra ─────────────────────────────────────────────────────────────┐
-│  Origin's hardware demo: full-body haptic suit + foot-tracking shoe  │
-│  + Quest 3. Shipping early July 2026.                                │
 └──────────────────────────────────────────────────────────────────────┘
 
 ┌─ Oasis AI ───────────────────────────────────────────────────────────┐
